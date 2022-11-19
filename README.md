@@ -7,8 +7,7 @@ There's a lot of sites to get pre-charted npm stats (e.g. http://npm-stats.org/,
 ## HOW TO USE 
 1. clone the repo
 2. `npm install`
-3. make sure you have node installed
-4. in terminal, run the node script specifying your npm_package, the start date and end end date as `{start_date}:{end_date}`
+3. in terminal, run the node script specifying your npm_package, the start date and end end date as `{start_date}:{end_date}`
 
 
 Here is an example: `node getnpmstats.js web3 2020-01-01:2022-11-18`
